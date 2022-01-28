@@ -11,3 +11,5 @@ Resnet on Pytorch.
 
 ## Reference
 [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+
+1/28 add drop out
